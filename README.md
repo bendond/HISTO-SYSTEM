@@ -16,7 +16,7 @@ Run the make file in the main directory. If that fails there are individual make
 Run the DP1 application created and placed at ./DP1/bin/ , it will fork the other applications needed to run. Do not move DP1/DP2/DC applications from their bin folders as it will cause forks to fail.
 
 ## Screenshots
-
+* = 100, + = 10, - = 1
 ![App Screenshot](https://github.com/bendond/HISTO-SYSTEM/blob/main/images/HistogramImage.png?raw=true)
 
 ## License
